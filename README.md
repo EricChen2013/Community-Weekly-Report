@@ -4,13 +4,16 @@ EasyDarwin出周报了，以后每周末会将当前这一周整个EasyDarwin开
 
 ## 2016.05.01 (第1期)##
 1. [EasyDarwin](https://github.com/EasyDarwin/EasyDarwin): 优化QTSSReflectorModule音视频分发中音视频关键帧推送算法；
+	
 	>修改点: [根据视频关键帧更新音频关键索引](https://github.com/EasyDarwin/EasyDarwin/commit/de7e6feb992e1157c0f36d493adfa2cdc1afe91c)
 	>
 	>修改详解： [EasyDarwin手机直播转发快速显示问题之音频处理过程](http://blog.csdn.net/xiejiashu/article/details/51286877)
 2. [EasyRTSPClient](https://github.com/EasyDarwin/EasyRTSPClient): 支持H.265视频格式
+	
 	>修改点：[update libEasyRTSPClient for hisiv100 v200 v400](https://github.com/EasyDarwin/EasyRTSPClient/commit/db64a211eb9d148e3baa439330e8b2ea0ff759f1)
 
 3. [EasyPusher](https://github.com/EasyDarwin/EasyPusher): EasyPusher MP4解析推送优化
+	
 	>修改点:[MP4Demux过滤pasp box](https://github.com/EasyDarwin/EasyPusher/commit/c7117a80f47340ccd7efecb4a773edea68a70700)
 
 
