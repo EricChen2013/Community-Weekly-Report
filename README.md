@@ -2,6 +2,14 @@
 
 EasyDarwin出周报了，以后每周末会将当前这一周整个EasyDarwin开源社区所有维护的项目更新都会做一个总结，以周报的形式，汇总给大家！
 
+
+## 2016.05.08 (第2期)##
+1. [EasyCamer](https://github.com/EasyDarwin/EasyDarwin/tree/master/EasyCamera): 开始新版本迭代并新增EasyCMSModule；
+2. [EasyRTSPClient](https://github.com/EasyDarwin/EasyRTSPClient): 修复PCMA回调数据错误问题；
+3. [EasyPlayer](https://github.com/EasyDarwin/EasyPlayer): 修复EasyPlayer播放PCMA流噪音问题；
+4. [EasyClient](https://github.com/EasyDarwin/EasyClient): 更新libEasyPlayer Android For EasyClient；
+
+
 ## 2016.05.01 (第1期)##
 1. [EasyDarwin](https://github.com/EasyDarwin/EasyDarwin): 优化QTSSReflectorModule音视频分发中音视频关键帧推送算法；
 	
